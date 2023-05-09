@@ -1,15 +1,15 @@
 # Customer_Seegmentation_clustering
 ![image](https://user-images.githubusercontent.com/94658560/237012425-5e3f2680-48d5-4619-a45f-1e2e264adb0c.png)
 
-Problem Statement
+**Problem Statement**
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 
-Content
-Attributes
-
+**Content
+**Attributes
+**
 People
 
 ID: Customer's unique identifier
