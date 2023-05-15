@@ -1,4 +1,4 @@
-# Customer_Seegmentation_clustering
+# Customer Segmentation clustering
 ![image](https://user-images.githubusercontent.com/94658560/237012425-5e3f2680-48d5-4619-a45f-1e2e264adb0c.png)
 
 **Problem Statement**
